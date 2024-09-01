@@ -24,3 +24,14 @@ A Dummy test will be used for evaluation. To evaluate, we will only make predict
 - It works on Item-item similarity or in our case we can say vendor-vendor similarity based on the rating of the vendor, food quality, delivery time, and many more. For example, say customer 1 orders food from vendor 4 to serve pasta, pizza, and Italian food, and also order from vendor 10 to serve pasta, French fries, and shakes that means there is a high chance next time coatomer id 1 order food along with pasta so recommended vendor to customer id 1 who has pasta in their menu.
 
 ![image](https://github.com/user-attachments/assets/986e280e-81ab-44ac-bdd9-e1f8b945a96b)
+
+# WEBSITE
+![image](https://github.com/user-attachments/assets/78afc432-9404-4be3-87dc-a626405e803d)
+
+![image](https://github.com/user-attachments/assets/e7d8baeb-b04c-41be-899c-5f1fb96a47c8)
+
+![image](https://github.com/user-attachments/assets/247fcba0-6a93-4343-8ed0-a5e6a23131ca)
+
+![image](https://github.com/user-attachments/assets/9a526772-ac19-4b65-98d5-70b1c1566a84)
+
+![image](https://github.com/user-attachments/assets/90c6cbe1-8e0b-4e99-9f94-a29d84a18b98)
